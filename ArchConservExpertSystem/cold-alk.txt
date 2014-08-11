@@ -1,0 +1,16 @@
+Cold Alkaline Sulphide
+
+Application: The object is immersed in an aqueous solution 
+of 0.5N NaOH/0.5N Na2SO3 in room temperature a sealed 
+container. The water isolates the object from the 
+atmosphere and the NaOH/Na2SO3 rapidly absorbs the free 
+oxygen present in the water and prevents it from reacting 
+with the metal. The container must be kept sealed at all 
+times because otherwise NaOH/Na2SO3 will absorb oxygen from 
+the atmosphere and lose its inhibiting qualities very fast.
+
+This technique is ideal for very for very fragile objects but 
+should be avoided for objects with organic materials or other 
+metal attached to them. Also the containers with the solution 
+are quite heavy and difficult to handle
+

@@ -1,0 +1,14 @@
+Hydrogen Plasma Reduction
+
+Application: the iron artifacts are placed in a quartz discharge tube and 
+hydrogen gas is released under a low pressure. The hydrogen gas is then 
+ionized into plasma by the introduction of high frequency radio waves. The 
+thermal reaction converts chloride into volatile compounds. The temperature 
+of the hydrogen gas can range from 400°C to 100°C.
+
+Hydrogen plasma reduction is very efficient and requires much sorter application 
+times than any other desalination technique. In lower temperatures it is also suitable 
+for fragile objects. Its major disadvantage is that it requires a high-frequency 
+coupled plasma installation, which can be found only in large research centers. 
+Because it usually involves high temperatures it is not suitable for very fragile objects 
+or objects with organic materials attached to them.

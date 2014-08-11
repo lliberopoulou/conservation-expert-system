@@ -1,0 +1,13 @@
+Storage in soil
+
+This storage treatment tries to emulate the environment 
+of where the object was found to maintain the conditions 
+that brought it to astate of passivation.The object is placed 
+in a (usually) polythene box which already has a layer of soil 
+on the bottom. If the object is very small then one or two more 
+objects can be placed next to it. The object(s) is then slowly 
+covered with the excavation soil. Objects can remain in soil  
+storage for several years unattended without ever having any 
+problems. This technique is suatable for very fragile objects and 
+objects with organic materials. Because it requires great amounts 
+of space it is better to use alternative methods unless its necessary.

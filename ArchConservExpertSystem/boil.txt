@@ -1,0 +1,10 @@
+Aqueous boiling
+
+Application: The object is immersed in several baths of boiling 
+distilled water. The process is repeated until there is no 
+detectable chloride ions on the object
+
+Much more efficient than other methods like distilled water and 
+the Soxhlet and faster that alkaline sulfide. The continuous 
+immersion in boiling distilled water can cause problems to 
+fragile objects.

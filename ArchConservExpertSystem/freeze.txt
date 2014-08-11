@@ -1,0 +1,18 @@
+Freezing
+
+Application: The object is placed inside a 
+freezer (-10 to -20C).It is better not to put 
+the objects directly form  temperatures above 
+15C in and frozen environment. They must go 
+through a process of gradual lowering of there 
+temperature until it reaches the desired level.
+
+This technique is very efficient, most of the 
+chemical reaction that cause the object to corrode 
+stop in temperatures bellow zero. But it is not 
+suitable for fragile objects because water trapped 
+inside there pores mite expand and cause serious 
+mechanical damage. This technique also requires a 
+freezer which consumes lots of energy and must be have 
+backup power supply to ensure there will be no long periods 
+of unacceptable temperatures.

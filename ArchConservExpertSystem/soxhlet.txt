@@ -1,0 +1,20 @@
+Soxhlet  
+
+The method takes its name from the Soxhlet device 
+used for its application.
+
+Application: The object is placed in the devise, which 
+gets filed with nitrogen gas, over boiling water. The 
+steam rises to a condenser above the object and falls back 
+as water soaking the object and carrying the chloride ions 
+intothe boiling water container below. The chloride ions 
+remain in the container, with only the water revaporising 
+to repeat the cycle. 
+
+This method is much more efficient than the immersion in 
+distilled water and doesn't have the dangers of aqueous boiling. 
+It is ideal for very fragile objects and objects with organic 
+materials attached The only serious problem with it is that it 
+requires special materialsand equipment like the soxhlet device 
+and nitrogen gas. Most conservation laboratories would not be able 
+to apply this technique.

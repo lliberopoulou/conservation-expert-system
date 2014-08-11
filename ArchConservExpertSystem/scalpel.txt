@@ -1,0 +1,11 @@
+Scalpel
+
+Application: This is simply cleaning the object with various 
+types of scalpels and scalpel blades(usually scalpel base 
+no.3 or no.4). The entire process must be contoled with 
+the help of a stereomicroscope.
+
+This is  very controlled technique that requires patience and 
+experience. It can be harmful for very fragile objects because 
+some times it is difficult to control the pressure applied to 
+the blade.
