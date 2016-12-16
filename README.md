@@ -17,4 +17,4 @@ http://clipsrules.sourceforge.net
 
 To run the program, simply follow the User guide in page no.17 of MScProject.doc. Although you might not be thrilled by the idea of a computing science project report I think is very important that you read the entire thing before you try to run the program. You can also read my small introduction on expert systems in conservation in the projects wiki
 
-Feel free download this project, but if you want to use it as part of your work I do require you make referance to the project, to me and my site (https://lidasweblog.wordpress.com/the-use-of-expert-systems-in-conservation/).
+Feel free download, but if you want to use it as part of your work I do require you make referance to the project, to me and my site (https://lidasweblog.wordpress.com/the-use-of-expert-systems-in-conservation/).
